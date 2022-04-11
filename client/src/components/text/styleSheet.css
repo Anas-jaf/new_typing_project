@@ -1,0 +1,22 @@
+
+.cursor {
+background-color: aqua;
+}
+
+.done {
+    background-color: greenyellow;
+}
+
+.wrong{
+    background-color: red;
+}
+
+#typing {
+    margin: 0 auto ;
+    width: 300px;
+    font-size: x-large;
+}
+
+.hidden{
+    display: none ;
+}
